@@ -1,6 +1,7 @@
 # A2
 
 * Word Count
+
 Follow the sepcification, as page number in subject outline may not be a good
 measurement of the volume as the document contains graphics, tables and other
 formatting matters. The volume is suggestive and not requirement anyway, as
@@ -8,6 +9,7 @@ long as your description is clear, and your argument logically supports what
 you did, it is fine.
 
 * Design Data Structures/Plan Data Models and Tests
+
 "Plan Data Models" is mainly for practical data modelling task. "Data
 Structure" is mainly a concern for algorithm implementation. But the there is
 no black/white distinction here. As when modelling some data, you still need
@@ -20,12 +22,14 @@ effective. Algorithm implementation task needs a plan to show your
 implementation is correct.
 
 * Video Highlights
+
 Were I to do it, I would talk for ~1min on each of the following points
 1. Why you do this and the challenge
 2. Your solution to the challenges
 3. What you have learned.
 
 * Ethical Discussion
+
 From the specification:
 The report includes discussions about the social/ethical aspect of the
 proposed technique/project. You can adopt one or more ethical models, such as
