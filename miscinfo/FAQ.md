@@ -21,6 +21,15 @@ For test, data modelling task needs a plan to demo your solution is
 effective. Algorithm implementation task needs a plan to show your
 implementation is correct.
 
+* Source Code in Report
+
+Yes, codes are allowed and even recommended, as they are the most accurate
+way of demoing your work. On the other hand, if some code block is large and
+not directly relevant, e.g. visualisation helper functions, you can put it
+away in a separate area and fold it before exporting PDF. Moreover, if a code
+block depends on its context and not easily moved, you can hide the code 
+(and optionally keep its output) using colab editor "EDIT:SHOW/HIDE CODE". 
+
 * Video Highlights
 
 Were I to do it, I would talk for ~1min on each of the following points
