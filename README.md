@@ -2,7 +2,8 @@
 Learning Materials for "Machine Learning" @ UTS, Spring 2019
 
 ```
-LATEST (23 Sep) Wee8 Preview Slides; FAQ of A2
+LATEST (25 Sep) A3 Released; consultation hours updated
+24 Sep: Week 8 Notebook Updated
 22 Sep: Week 8 Notebook draft
 19 Sep: Week 7 Slides with animations and consultation hours.
 16 Sep: Neural nets slide and notebook draft.
