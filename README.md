@@ -2,7 +2,8 @@
 Learning Materials for "Machine Learning" @ UTS, Spring 2019
 
 ```
-LATEST (25 Sep) A3 Released; consultation hours updated
+LATEST (30 Sep) GAN Notes Added; Week 8 Full Slides Added; 
+25 Sep: A3 Released; consultation hours updated
 24 Sep: Week 8 Notebook Updated
 22 Sep: Week 8 Notebook draft
 19 Sep: Week 7 Slides with animations and consultation hours.
