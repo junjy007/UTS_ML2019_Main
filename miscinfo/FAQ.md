@@ -2,8 +2,7 @@
 
 * Word Count
 
-Follow the sepcification, as the page number in subject outline may not be a good measurement of the volume as the document contains graphics, tables and other
-formatting matters. The volume is suggestive and not requirement anyway, as long as your description is clear, and your argument logically supports what
+Follow the sepcification, as the page number in subject outline may not be a good measurement of the volume as the document contains graphics, tables and other formatting matters. The volume is suggestive and not requirement anyway, as long as your description is clear, and your argument logically supports what
 you did, it is fine.
 
 * Design Data Structures/Plan Data Models and Tests
@@ -72,3 +71,16 @@ No, this is too simple. But you can try to improve the spatial/time efficiency o
 * Performance of my implementation?
 
 It is not required to be competitive with industry-level implementations. You need only to show that your implementation works.
+
+# A3
+
+* Word Count
+
+No hard requirement. For both 32513 and 31005, try to make a report as concise as possible while covering points in the specification. As a guideline, a typical answer (31005) may contain 1000 words, and a typical proposal (32513) may contain 1200 words. Both word counts are text body only.
+
+
+Do NOT inflate the report with enlarged figures or unorganised program outputs -- we both know adding extra volume in this way is effortless and worthless.
+
+* Video Pitch (32513)
+
+See above (video pitch for 31005 A2). Similarly, replace "what learned from te project" with "deployment/commercialisation considerations".
