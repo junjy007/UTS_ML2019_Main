@@ -2,7 +2,8 @@
 Learning Materials for "Machine Learning" @ UTS, Spring 2019
 
 ```
-LATEST (2 Oct) GAN Preview slides Added; Minor bug fix in Notebook.
+LATEST 8 Oct: More FAQ on A3 PDF and Pitch
+6 Oct: FAQ on A3; Powerpoint Slides
 30 Sep: GAN Notes Added; Week 8 Full Slides Added; 
 25 Sep: A3 Released; consultation hours updated
 24 Sep: Week 8 Notebook Updated
