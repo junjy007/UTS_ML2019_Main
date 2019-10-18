@@ -2,7 +2,8 @@
 Learning Materials for "Machine Learning" @ UTS, Spring 2019
 
 ```
-LATEST 8 Oct: More FAQ on A3 PDF and Pitch
+LATEST 18 Oct: Slides of Week 11, Review and Reflect
+8 Oct: More FAQ on A3 PDF and Pitch
 6 Oct: FAQ on A3; Powerpoint Slides
 30 Sep: GAN Notes Added; Week 8 Full Slides Added; 
 25 Sep: A3 Released; consultation hours updated
